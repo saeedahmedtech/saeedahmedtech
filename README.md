@@ -75,6 +75,6 @@ I'm currently developing new portfolio projects focused on real-world business a
 
 I work with clients in Germany, Europe, and worldwide.
 
-📧 Email: saeed.ahmed.tech26@gmail.com
+📧 Email: [saeed.ahmed.tech26@gmail.com](mailto:saeed.ahmed.tech26@gmail.com)       
 💼 LinkedIn: https://www.linkedin.com/in/saeed-ahmed-5182b6222/
 🌐 Portfolio: coming soon ...
